@@ -2,7 +2,7 @@
     /* Insert CSS to style search input */
     var link = document.createElement("link");
     link.setAttribute("rel", "stylesheet");
-    link.setAttribute("href", "https://humsstel.github.io/iamherelearning/HCT/blob/master/reviewstatus.css");
+    link.setAttribute("href", "https://humsstel.github.io/iamherelearning/Blackboard/blob/master/reviewstatus.css");
     var head = document.getElementsByTagName("head") [0];
     head.appendChild(link);
     /* Insert Font Awesome for search icon */
